@@ -4,3 +4,12 @@ methods:
     1. virtual dom. 
     2. customize json structure 
     3. html 
+
+think:
+    1. use abstract component to discribe things 
+    2. 
+
+requirements:
+    1. highly customizable. Add new filter condition
+    2. allow and,or logic link
+    3. allow lazyload resources
