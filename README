@@ -1,0 +1,6 @@
+we try to build a flexiable JSON structure to describe a Vue components via JSON
+
+methods: 
+    1. virtual dom. 
+    2. customize json structure 
+    3. html 
